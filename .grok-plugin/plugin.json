@@ -1,0 +1,19 @@
+{
+  "name": "aigov-ai-governance",
+  "version": "1.0.0",
+  "description": "AI governance skills for Grok Build: EU AI Act risk classification, GDPR DPIA drafting, public funding and regulatory sandbox scouting, and contract risk review.",
+  "author": {
+    "name": "Aigov.consulting",
+    "url": "https://aigov.consulting"
+  },
+  "homepage": "https://aigov.consulting",
+  "repository": "https://github.com/Aigov-consulting/aigov-ai-governance-plugin",
+  "license": "MIT",
+  "keywords": [
+    "aigov",
+    "aigov consulting",
+    "aigov ai governance",
+    "eu ai act",
+    "dpia"
+  ]
+}
